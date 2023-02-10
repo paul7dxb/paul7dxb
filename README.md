@@ -7,13 +7,6 @@
 <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' height='40'/>
 <img src='https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask&logoColor=black' height='40'/>
 
-
-
-- Web Development
-  - Flask
-  - React
-- Python
-
 ### About me:
 
 - 🔭 I’m currently working on a personal portfolio site
