@@ -1,11 +1,13 @@
 ## Hi there 👋
 
-##Skills:
+### Skills:
 
 - Web Development
   - Flask
   - React
 - Python
+
+### About me:
 
 - 🔭 I’m currently working on a personal portfolio site
 - 🌱 I’m currently learning React
