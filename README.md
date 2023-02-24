@@ -22,3 +22,7 @@
 [<img src='https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen' alt='CodePen' height='40'>](https://codepen.io/papapps) 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='LinkdIn' height='40'>](https://www.linkedin.com/in/paul-mckeown-dev/)
 
+
+### Github stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paul7dxb&exclude_repo=hosted-assets,Obsidian-Cyber-Notes,Obsidian-Web-Dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
