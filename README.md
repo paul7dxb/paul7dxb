@@ -10,7 +10,7 @@
 
 ### About me:
 
-- 🔭 I’m currently working on a personal portfolio site
+- 🔭 I’m currently working on a website to interact with UK police API data
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on any web based projects
 - 💬 Ask me about linode deployments and JS
