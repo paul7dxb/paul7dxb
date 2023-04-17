@@ -10,10 +10,10 @@
 
 ### About me:
 
-- 🔭 I’m currently working on a website to interact with UK police API data
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on any web based projects
-- 💬 Ask me about linode deployments and JS
+- 🔭 I’m currently working on AWS based deployments
+- 🌱 I’m currently learning NextJS
+- 👯 I’m looking to collaborate on any web based projects using React / NextJS
+- 💬 Ask me about cloud deployments and JS
 - 📫 How to reach me: www.linkedin.com/in/paul-mckeown-dev
 
 ### Where to find me:
