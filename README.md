@@ -11,8 +11,8 @@
 ### About me:
 
 - 🔭 I’m currently working on AWS based deployments
-- 🌱 I’m currently learning NextJS
-- 👯 I’m looking to collaborate on any web based projects using React / NextJS
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on any web based projects
 - 💬 Ask me about cloud deployments and JS
 - 📫 How to reach me: www.linkedin.com/in/paul-mckeown-dev
 
